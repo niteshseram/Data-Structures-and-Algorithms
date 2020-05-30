@@ -1,5 +1,5 @@
 # Show Me the Data Structures
-This project includes six sub problems.
+This project includes six different sub problems.
 ## Problem 1- LRU Cache
 The lookup operation (i.e., get()) and put() / set() is supposed to be fast for a cache memory.
 
