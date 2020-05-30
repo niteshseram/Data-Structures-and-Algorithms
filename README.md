@@ -11,4 +11,4 @@ This project was under the course section of Basic Algorithms which included top
 This project was under the final course section of Advanced Algorithms included topics lke Greedy Algorithms, Graph Algorithms, and Dynamic Programming
 
 ## Certificate of Completion
-![alt text](https://github.com/niteshseram/Data-Structures-and-Algorithms/udacitydsa.pdf?raw=true)
+![alt text](https://github.com/niteshseram/Data-Structures-and-Algorithms/blob/master/udacitydsa.pdfudacitydsa.pdf?raw=true)
