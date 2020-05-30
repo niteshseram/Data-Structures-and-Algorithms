@@ -21,4 +21,4 @@ Mobile numbers have no parentheses, but have a space in the middle of the number
 Telemarketers' numbers have no parentheses or space, but start with the code 140. Example: "1402316533".
 
 ### Tasks
-Tasks required to do are mentioned inside each individual file.
+Tasks required to do are mentioned inside each python file.
