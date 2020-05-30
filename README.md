@@ -3,7 +3,7 @@ The project here are my course work project for [Udacity Nanogeree program](http
 This repository contains 4 projects which I completed to get my Data Strcutures and Algorithms Nanodegree from Udacity
 ### Project 1- Unscramble Computer Science Problems
 This project was under the course section of Introduction.
-### Project 2- Show me the Data Structures
+### Project 2- Show Me the Data Structures
 This project was under the course section of Data Strcutures which included topics like Arrays, Linked Lists, Queues, Recursion, Trees, Maps, and Hashing.
 
 ### Project 3- Problems vs. Algorithms
