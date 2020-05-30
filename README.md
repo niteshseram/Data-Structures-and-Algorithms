@@ -10,7 +10,7 @@ This project was under the course section of Data Strcutures which included topi
 This project was under the course section of Basic Algorithms which included topics like Binary Search, Heaps, Tries, Sorting Algorithms (Bubble, Merge, Quick, and Heap sort), and Divide and Conquer Algorithms.
 
 ### Project 4- Route Planner
-This project was under the final course section of Advanced Algorithms included topics lke Greedy Algorithms, Graph Algorithms, and Dynamic Programming
+This project was under the final course section of Advanced Algorithms included topics like Greedy Algorithms, Graph Algorithms, and Dynamic Programming
 
 ## Certificate of Completion
 ![alt text](https://github.com/niteshseram/Data-Structures-and-Algorithms/blob/master/udacitydsa-1.jpg?raw=true)
